@@ -1,0 +1,19 @@
+# Credentials
+firebase-key.json
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data
+patients.json
+medical_records_bulk.json
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
